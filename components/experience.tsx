@@ -13,7 +13,7 @@ export function Experience() {
   }>
 
   return (
-    <section id="experience" className="px-6 md:px-12 lg:px-24 py-24">
+    <section id="experience" className="px-6 md:px-12 lg:px-24 py-24 flex flex-col items-center">
       <div className="max-w-4xl">
         <h2 className="text-sm text-primary mb-12 tracking-wider">{t("heading")}</h2>
 

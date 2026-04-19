@@ -3,57 +3,63 @@
     "greeting": "// hello, world",
     "name": "Daiki Wada",
     "title": "Frontend Engineer / M2 Researcher",
-    "bio": "Building performant web applications and researching distributed systems. Passionate about crafting elegant user interfaces with modern technologies while exploring the frontiers of computing.",
+    "bio": "I build websites and web applications.",
     "viewWorks": "View Works",
     "contact": "Contact"
   },
   "about": {
     "heading": "// about",
-    "p1": "I'm a frontend engineer and Master's student based in Tokyo, passionate about building accessible, pixel-perfect user interfaces that blend thoughtful design with robust engineering.",
-    "p2": "My work lies at the intersection of development and research, creating web experiences that are not only visually compelling but also built for performance and scalability. Currently pursuing my M2 degree, I focus on distributed systems and large language models.",
-    "p3": "When I'm not coding, you can find me reading technical papers, experimenting with new frameworks, or contributing to open-source projects."
+    "p1": "I'm a frontend engineer and Master's student based in Tokyo. I build websites that faithfully reproduce designs and develop web applications with fast implementation.",
+    "p2": "I'm currently in my second year of a Master's program at Chiba Institute of Technology, where my research focuses on distributed systems.",
+    "p3": "When I'm not coding, you can find me reading technical papers or experimenting with new frameworks."
   },
   "skills": {
     "heading": "// skills",
     "web": "Web Development",
-    "infra": "Data & Infrastructure",
     "research": "Research & Design"
   },
   "experience": {
     "heading": "// experience",
     "items": [
       {
-        "company": "Recruit Co., Ltd.",
-        "role": "Software Engineering Intern",
-        "period": "",
-        "description": "Independently developed a new feature using Document Picture-in-Picture API",
-        "tags": ["React"]
+        "company": "Sea Inc.",
+        "role": "Part-time Engineer",
+        "period": "2024.07 - Present",
+        "description": "Building websites and web applications",
+        "tags": ["React", "Next.js", "TypeScript", "JavaScript", "Node.js", "Astro", "microCMS", "HTML", "CSS"]
       },
       {
         "company": "CARTA Holdings",
         "role": "Software Engineering Intern",
-        "period": "",
+        "period": "2025.11 - 2026.01",
         "description": "Built an in-house AI ad-tag classification app at Generative AI Lab, handling everything from tech selection to deployment solo",
         "tags": ["React", "Python", "FastAPI", "GCP"]
       },
       {
         "company": "Fast Retailing",
         "role": "Software Engineering Intern",
-        "period": "",
+        "period": "2025.11 - 2025.12",
         "description": "Implemented batch processing and wrote integration design docs in English, working in an international team",
         "tags": ["Java", "Spring Boot"]
       },
       {
+        "company": "Recruit Co., Ltd.",
+        "role": "Software Engineering Intern",
+        "period": "2025.09 - 2025.10",
+        "description": "Independently developed a new feature using the Document Picture-in-Picture API",
+        "tags": ["React"]
+      },
+      {
         "company": "LY Corporation (LINE Yahoo)",
         "role": "Software Engineering Intern",
-        "period": "",
-        "description": "Proposed and prototyped a new feature for Yahoo News, adding functionality to an existing large-scale codebase",
+        "period": "2025.09 - 2025.09",
+        "description": "Proposed and prototyped a new feature for Yahoo News, adding functionality to an existing large-scale codebase with another student",
         "tags": ["React", "Redux", "styled-components"]
       },
       {
         "company": "Digital Garage",
         "role": "Software Engineering Intern",
-        "period": "",
+        "period": "2025.05 - 2025.06",
         "description": "Experienced full-cycle development from requirements to testing, handling upstream processes in a team setting",
         "tags": ["Next.js", "Express", "AWS"]
       }

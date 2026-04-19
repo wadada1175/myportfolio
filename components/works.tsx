@@ -14,7 +14,7 @@ export function Works() {
   const projects = t.raw("projects") as Array<{ title: string; description: string }>
 
   return (
-    <section id="works" className="px-6 md:px-12 lg:px-24 py-24">
+    <section id="works" className="px-6 md:px-12 lg:px-24 py-24 flex flex-col items-center">
       <div className="max-w-6xl">
         <h2 className="text-sm text-primary mb-12 tracking-wider">{t("heading")}</h2>
 
