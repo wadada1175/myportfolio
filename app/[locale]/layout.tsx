@@ -12,7 +12,7 @@ const jetbrainsMono = JetBrains_Mono({
   variable: "--font-mono",
 })
 
-const BASE_URL = "https://wadada1175.com"
+const BASE_URL = "https://wadada1175.vercel.app"
 
 const meta = {
   en: {
