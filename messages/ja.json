@@ -1,0 +1,101 @@
+{
+  "hero": {
+    "greeting": "// こんにちは",
+    "name": "和田 大輝",
+    "title": "フロントエンドエンジニア / 修士2年",
+    "bio": "web制作、webアプリケーション開発を行っています",
+    "viewWorks": "制作物を見る",
+    "contact": "連絡先"
+  },
+  "about": {
+    "heading": "// about",
+    "p1": "東京を拠点に活動するフロントエンドエンジニア・大学院生です。デザインを忠実に再現したwebサイトを制作、素早い実装スピードでwebアプリケーションを開発しています。",
+    "p2": "現在千葉工業大学大学院で修士2年を過ごしています。研究内容は分散システムです。",
+    "p3": "コーディングをしていない時は、技術論文を読んだり、新しいフレームワークを試したりしています。"
+  },
+  "skills": {
+    "heading": "// スキル",
+    "web": "Web開発",
+    "infra": "データ・インフラ",
+    "research": "研究・設計"
+  },
+  "experience": {
+    "heading": "// 経歴",
+    "items": [
+      {
+        "company": "Sea Inc.",
+        "role": "アルバイト",
+        "period": "2024.07 - 現在",
+        "description": "web制作、を行っています",
+        "tags": ["React", "Next.js", "TypeScript", "JavaScript", "Node.js", "Astro", "microCMS", "HTML", "CSS"]
+      },
+      {
+        "company": "株式会社CARTA Holdings",
+        "role": "就業型インターン",
+        "period": "2025.11 - 2026.01",
+        "description": "Generative AI Labにて社内向けAI広告タグ判定アプリを開発。技術選定〜デプロイまで1人で完走",
+        "tags": ["React", "Python", "FastAPI", "GCP"]
+      },
+      {
+        "company": "株式会社ファーストリテイリング",
+        "role": "就業型インターン",
+        "period": "2025.11 - 2025.12",
+        "description": "バッチ処理の実装、システム統合向け設計書を英語で作成。外国人メンバーとのグローバルチームで開発",
+        "tags": ["Java", "Spring Boot"]
+      },
+      {
+        "company": "株式会社リクルート",
+        "role": "就業型インターン",
+        "period": "2025.09 - 2025.10",
+        "description": "Document Picture-in-Pictureを使用した新規機能を単独開発",
+        "tags": ["React"]
+      },
+      {
+        "company": "LINEヤフー株式会社",
+        "role": "就業型インターン",
+        "period": "2025.09 - 2025.09",
+        "description": "ヤフーニュースの新規機能提案〜プロトタイプ開発。学生2人で既存コードベースに機能追加",
+        "tags": ["React", "Redux", "styled-components"]
+      },
+      {
+        "company": "株式会社デジタルガレージ",
+        "role": "就業型インターン",
+        "period": "2025.05 - 2025.06",
+        "description": "要件定義〜テストまでフルサイクルを経験。チームで実装を分担し上流工程も担当",
+        "tags": ["Next.js", "Express", "AWS"]
+      }
+    ]
+  },
+  "works": {
+    "heading": "// 制作物",
+    "projects": [
+      {
+        "title": "警備会社シフト管理システム",
+        "description": "警備会社のシフト管理を行うシステムを開発"
+      },
+      {
+        "title": "コーポレートサイト制作",
+        "description": "Next.jsを用いてコーポレートサイトを制作"
+      },
+      {
+        "title": "採用サイト制作",
+        "description": "Astroを用いて採用サイトを制作"
+      },
+      {
+        "title": "LP制作",
+        "description": "HTML, CSS, JavaScriptを用いてLPを制作"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "// 連絡先",
+    "description": "コラボレーションのご相談や、気軽なご挨拶など、お気軽にご連絡ください。",
+    "social": "// SNS"
+  },
+  "footer": {
+    "copy": "© 2026 和田 大輝."
+  },
+  "nav": {
+    "lang": "English(英語)"
+  }
+}

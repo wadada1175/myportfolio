@@ -1,46 +1,50 @@
+"use client"
+
 import { Mail } from "lucide-react"
 import { SiGithub, SiX, SiInstagram } from "@icons-pack/react-simple-icons"
+import { useTranslations } from "next-intl"
 
 export function Contact() {
+  const t = useTranslations("contact")
+
   return (
     <section id="contact" className="px-6 md:px-12 lg:px-24 py-24 bg-card/30">
       <div className="max-w-4xl">
-        <h2 className="text-sm text-primary mb-8 tracking-wider">{"// contact"}</h2>
-        
+        <h2 className="text-sm text-primary mb-8 tracking-wider">{t("heading")}</h2>
+
         <p className="text-foreground/80 mb-12 leading-relaxed max-w-xl">
-          Interested in collaborating or just want to say hello? 
-          Feel free to reach out through any of the channels below.
+          {t("description")}
         </p>
-        
+
         <div className="flex flex-col sm:flex-row gap-6 mb-12">
           <a
-            href="https://github.com/daiki-wada"
+            href="https://github.com/wadada1175"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors duration-200 group"
           >
             <SiGithub color="currentColor" className="w-5 h-5" />
             <span className="underline underline-offset-4 decoration-border group-hover:decoration-primary">
-              github.com/daiki-wada
+              github.com/wadada1175
             </span>
           </a>
-          
+
           <a
-            href="mailto:daiki@example.com"
+            href="mailto:w.daiki1175@gmail.com"
             className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors duration-200 group"
           >
             <Mail className="w-5 h-5" />
             <span className="underline underline-offset-4 decoration-border group-hover:decoration-primary">
-              daiki@example.com
+              w.daiki1175@gmail.com
             </span>
           </a>
         </div>
 
         <div className="flex items-center gap-6">
-          <span className="text-sm text-muted-foreground">{"// social"}</span>
+          <span className="text-sm text-muted-foreground">{t("social")}</span>
           <div className="flex items-center gap-4">
             <a
-              href="https://twitter.com/daiki_wada"
+              href="https://x.com/wdada1175"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 text-muted-foreground hover:text-primary hover:bg-primary/10 rounded-lg transition-all duration-200"
@@ -49,7 +53,7 @@ export function Contact() {
               <SiX color="currentColor" className="w-5 h-5" />
             </a>
             <a
-              href="https://linkedin.com/in/daiki-wada"
+              href="https://www.linkedin.com/in/daiki-wada/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 text-muted-foreground hover:text-primary hover:bg-primary/10 rounded-lg transition-all duration-200"
@@ -60,7 +64,7 @@ export function Contact() {
               </svg>
             </a>
             <a
-              href="https://instagram.com/daiki_wada"
+              href="https://www.instagram.com/w.dada1175"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 text-muted-foreground hover:text-primary hover:bg-primary/10 rounded-lg transition-all duration-200"

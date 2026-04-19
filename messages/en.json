@@ -1,0 +1,94 @@
+{
+  "hero": {
+    "greeting": "// hello, world",
+    "name": "Daiki Wada",
+    "title": "Frontend Engineer / M2 Researcher",
+    "bio": "Building performant web applications and researching distributed systems. Passionate about crafting elegant user interfaces with modern technologies while exploring the frontiers of computing.",
+    "viewWorks": "View Works",
+    "contact": "Contact"
+  },
+  "about": {
+    "heading": "// about",
+    "p1": "I'm a frontend engineer and Master's student based in Tokyo, passionate about building accessible, pixel-perfect user interfaces that blend thoughtful design with robust engineering.",
+    "p2": "My work lies at the intersection of development and research, creating web experiences that are not only visually compelling but also built for performance and scalability. Currently pursuing my M2 degree, I focus on distributed systems and large language models.",
+    "p3": "When I'm not coding, you can find me reading technical papers, experimenting with new frameworks, or contributing to open-source projects."
+  },
+  "skills": {
+    "heading": "// skills",
+    "web": "Web Development",
+    "infra": "Data & Infrastructure",
+    "research": "Research & Design"
+  },
+  "experience": {
+    "heading": "// experience",
+    "items": [
+      {
+        "company": "Recruit Co., Ltd.",
+        "role": "Software Engineering Intern",
+        "period": "",
+        "description": "Independently developed a new feature using Document Picture-in-Picture API",
+        "tags": ["React"]
+      },
+      {
+        "company": "CARTA Holdings",
+        "role": "Software Engineering Intern",
+        "period": "",
+        "description": "Built an in-house AI ad-tag classification app at Generative AI Lab, handling everything from tech selection to deployment solo",
+        "tags": ["React", "Python", "FastAPI", "GCP"]
+      },
+      {
+        "company": "Fast Retailing",
+        "role": "Software Engineering Intern",
+        "period": "",
+        "description": "Implemented batch processing and wrote integration design docs in English, working in an international team",
+        "tags": ["Java", "Spring Boot"]
+      },
+      {
+        "company": "LY Corporation (LINE Yahoo)",
+        "role": "Software Engineering Intern",
+        "period": "",
+        "description": "Proposed and prototyped a new feature for Yahoo News, adding functionality to an existing large-scale codebase",
+        "tags": ["React", "Redux", "styled-components"]
+      },
+      {
+        "company": "Digital Garage",
+        "role": "Software Engineering Intern",
+        "period": "",
+        "description": "Experienced full-cycle development from requirements to testing, handling upstream processes in a team setting",
+        "tags": ["Next.js", "Express", "AWS"]
+      }
+    ]
+  },
+  "works": {
+    "heading": "// works",
+    "projects": [
+      {
+        "title": "Security Guard Shift Management System",
+        "description": "Developed a shift management system for a security company"
+      },
+      {
+        "title": "Corporate Site",
+        "description": "Built a corporate website using Next.js"
+      },
+      {
+        "title": "Recruitment Site",
+        "description": "Built a recruitment site using Astro"
+      },
+      {
+        "title": "Landing Page",
+        "description": "Developed a landing page using HTML, CSS, and JavaScript"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "// contact",
+    "description": "Interested in collaborating or just want to say hello? Feel free to reach out through any of the channels below.",
+    "social": "// social"
+  },
+  "footer": {
+    "copy": "© 2026 Daiki Wada."
+  },
+  "nav": {
+    "lang": "日本語(Japanese)"
+  }
+}
