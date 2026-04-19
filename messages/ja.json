@@ -32,7 +32,7 @@
         "company": "株式会社CARTA Holdings",
         "role": "就業型インターン",
         "period": "2025.11 - 2026.01",
-        "description": "Generative AI Labにて社内向けAI広告タグ判定アプリを開発。技術選定〜デプロイまで1人で完走",
+        "description": "Generative AI Labにて社内向けアプリケーションを開発。技術選定〜デプロイまで1人で完走",
         "tags": ["React", "Python", "FastAPI", "GCP"]
       },
       {
@@ -46,14 +46,14 @@
         "company": "株式会社リクルート",
         "role": "就業型インターン",
         "period": "2025.09 - 2025.10",
-        "description": "Document Picture-in-Pictureを使用した新規機能を単独開発",
+        "description": "Document Picture-in-Pictureを使用した新規機能を開発",
         "tags": ["React"]
       },
       {
         "company": "LINEヤフー株式会社",
         "role": "就業型インターン",
         "period": "2025.09 - 2025.09",
-        "description": "ヤフーニュースの新規機能提案〜プロトタイプ開発。学生2人で既存コードベースに機能追加",
+        "description": "ヤフーニュースの新規機能提案〜プロトタイプ開発。既存コードベースに機能追加",
         "tags": ["React", "Redux", "styled-components"]
       },
       {
