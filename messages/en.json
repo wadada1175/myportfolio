@@ -70,19 +70,26 @@
     "projects": [
       {
         "title": "Security Guard Shift Management System",
-        "description": "Developed a shift management system for a security company"
+        "description": "Developed a shift management system for a security company",
+        "image": "/assys.png"
       },
       {
         "title": "Corporate Site",
-        "description": "Built a corporate website using Next.js"
+        "description": "Built a corporate website using Next.js",
+        "image": "/fmt.png",
+        "link": "https://www.fuji-mt.co.jp/"
       },
       {
         "title": "Recruitment Site",
-        "description": "Built a recruitment site using Astro"
+        "description": "Built a recruitment site using Astro",
+        "image": "/ihi.png",
+        "link": "https://www.ihi.co.jp/ips/recruit/"
       },
       {
         "title": "Landing Page",
-        "description": "Developed a landing page using HTML, CSS, and JavaScript"
+        "description": "Developed a landing page using HTML, CSS, and JavaScript",
+        "image": "/lp.png",
+        "link": "https://www.albion-cosmetics.com/seasonal/selfwhiteningmission/sg/"
       }
     ]
   },
